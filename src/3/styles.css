@@ -1,0 +1,56 @@
+body {
+  background-image: url("https://dcom-prod.imgix.net/files/2020-04/Por-que-el-cielo-se-ve-azul_thumbnail.jpg?w=1280&h=720&crop=focalpoint&fp-x=0.50974025974026&fp-y=0.53030303030303&fit=crop&auto=compress&q=75");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.boton {
+  border: 1px solid #384a72;
+  border-radius: 2rem;
+  color: #384a72;
+  font-weight: bold;
+  padding: 0.2rem 1.5rem;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+@media only screen and (min-width: 1200px) {
+  .card-img {
+    background-image: url("https://live.staticflickr.com/3252/2612995478_3b5e49a552_z.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+/* .card {
+  z-index: -1; // Esto pierde el cursor: pointer; en todos los objetos correspondientes
+} */
+/* .banner-img {
+  position: relative;
+  top: 5rem;
+  z-index: -1;
+} */
+
+.footer-number {
+  font-size: 4.5rem;
+}
+.footer-text {
+  color: #c0c1c4;
+}
+
+.footer-readMore {
+  font-size: 1.1rem;
+  color: #5f6165;
+}
+.footer-readMoreLink {
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: #546586;
+  font-weight: bold;
+  cursor: pointer;
+}
+.footer-readMoreLink:hover {
+  color: #373c47;
+}
