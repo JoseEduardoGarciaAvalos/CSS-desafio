@@ -1,0 +1,197 @@
+.boton1 {
+  background-color: #592be5;
+  color: white;
+  height: 4rem;
+  padding: 0.2rem 2rem;
+}
+
+/* MAIN */
+.main-titulo {
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+.main-parrafo {
+  color: #8f9bba;
+}
+
+/* feebackTop */
+.feebackTop article {
+  margin-bottom: 5rem;
+}
+
+.feebackTop-header-logo {
+  margin-bottom: 1.5rem;
+}
+.feebackTop-header-score {
+  margin-bottom: 1rem;
+}
+
+.feebackTop-header-score span:last-child {
+  color: #b8c0d3;
+}
+
+.feebackTop-tittle {
+  color: #50618a;
+  font-weight: bold;
+}
+
+.feebackTop-body {
+  color: #9aa5c2;
+}
+
+.feebackTop-footer * {
+  font-size: 0.9rem;
+  color: #7986a5;
+  margin: 0;
+  font-style: italic;
+}
+
+/* SERVICES */
+.services-header,
+.caseStudy-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+.services-header-titulo,
+.caseStudy-header-tittle,
+.contact-tittle,
+.contact-owner-name {
+  color: #52638b;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.services-header-description,
+.services-body-description,
+.caseStudy-header-description,
+.contact-description,
+.contact-owner-place {
+  color: #8997b7;
+}
+
+.services-body > article {
+  margin-bottom: 4rem;
+}
+.services-body-img {
+  margin-bottom: 3rem;
+}
+.services-body-name {
+  color: #52638b;
+  font-size: 1.5rem;
+}
+.services-body-description {
+  font-size: 0.95rem;
+}
+.services {
+  margin-bottom: 4rem;
+}
+
+.caseStudy-groupButton {
+  background-color: #eff3f8;
+  display: inline-block;
+  border-radius: 0.6rem;
+  text-align: center;
+}
+.caseStudy-groupButton > button {
+  min-width: 7rem;
+}
+.bg1 {
+  background-color: #e66969;
+}
+.bg2 {
+  background-color: #c7e8d0;
+}
+.bg3 {
+  background-color: #fcc76f;
+}
+.bg4 {
+  background-color: #a9cadc;
+}
+.bg5 {
+  background-color: #2465c6;
+}
+.bg6 {
+  background-color: #6ca363;
+}
+.caseStudy-articulo {
+  border-radius: 2rem;
+  padding: 1.5rem;
+  color: white;
+}
+.caseStudy-articulo-tittle {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.caseStudy-articulo-img {
+  text-align: center;
+}
+.caseStudy-articulo-img img {
+  /* max-height: 200px; */
+}
+.caseStudy-footer {
+  text-align: center;
+}
+/* CONTACT */
+.contact-info-mail > span {
+  color: #6d44e8;
+  text-decoration: underline;
+}
+.contact-info {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.contact-info span {
+  margin-left: 2rem;
+}
+.contact-owner-name {
+  font-size: 1.6rem;
+}
+/* FOOTER */
+.footer {
+  background-color: #213669;
+  color: white;
+}
+.footer-logo-text * {
+  margin: 0;
+}
+.footer-logo-text p:first-child {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.footer-idiom {
+  background-color: #213669;
+  border: 1px white solid;
+  border-radius: 1rem;
+  height: 3rem;
+}
+.footer-idiom div,
+.footer-idiom {
+  color: white;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.footer-siteMap {
+  margin-left: 1.33em;
+}
+.footer-siteMap ul {
+  list-style-type: none;
+}
+.footer-siteMap li {
+  margin-bottom: 0.8rem;
+}
+.footer-siteMap a {
+  color: #677cb0;
+  text-decoration: none;
+}
+.footer-siteMap a:hover {
+  color: white;
+}
+.footer-siteMap strong > a {
+  color: white;
+}
+.footer-siteMap strong > a:hover {
+  color: #5b6376;
+}
+.footer-contact p {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
